@@ -197,7 +197,7 @@ templateMessage: {
 hydratedTemplate: {
 imageMessage: message.imageMessage,
 hydratedContentText: text,
-hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://youtube.com/@zim-bot \n®ᴢɪᴍʙᴏᴛɪɴᴄ 2023`,
+hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://youtube.com/@zim-bot \n®joshbot 2023`,
  hydratedButtons: content,
 },
 },
@@ -216,7 +216,7 @@ templateMessage: {
 hydratedTemplate: {
 imageMessage: message.imageMessage,
 hydratedContentText: text,
-hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://youtube.com/@zim-bot \n®ᴢɪᴍʙᴏᴛɪɴᴄ 2023`,
+hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://youtube.com/@zim-bot \n®joshbot 2023`,
 hydratedButtons: content,
 },
 },
@@ -235,7 +235,7 @@ templateMessage: {
 hydratedTemplate: {
 imageMessage: message.imageMessage,
 hydratedContentText: text,
-hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://youtube.com/@zim-bot \n®ᴢɪᴍʙᴏᴛɪɴᴄ 2023`,
+hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://youtube.com/@zim-bot \n®joshbot 2023`,
 hydratedButtons: content,
 },
 },
@@ -254,7 +254,7 @@ templateMessage: {
 hydratedTemplate: {
 imageMessage: message.imageMessage,
 hydratedContentText: text,
-hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://youtube.com/@zim-bot \n®ᴢɪᴍʙᴏᴛɪɴᴄ 2023`,
+hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://youtube.com/@zim-bot \n®joshbot 2023`,
 hydratedButtons: content,
 },
 },
@@ -273,7 +273,7 @@ templateMessage: {
 hydratedTemplate: {
 imageMessage: message.imageMessage,
 hydratedContentText: text,
-hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://youtube.com/@zim-bot \n®ᴢɪᴍʙᴏᴛɪɴᴄ 2023`,
+hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://youtube.com/@zim-bot \n®joshbot 2023`,
 hydratedButtons: content,
 },
 },
@@ -290,7 +290,7 @@ templateMessage: {
 hydratedTemplate: {
 imageMessage: message.imageMessage,
 hydratedContentText: text,
-hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://youtube.com/@zim-bot \n®ᴢɪᴍʙᴏᴛɪɴᴄ 2023`,
+hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://youtube.com/@zim-bot \n®joshbot 2023`,
 hydratedButtons: content,
 },
 },
@@ -312,7 +312,7 @@ templateMessage: {
 hydratedTemplate: {
 imageMessage: message.imageMessage,
 hydratedContentText: text,
-hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://youtube.com/@zim-bot \n®ᴢɪᴍʙᴏᴛɪɴᴄ 2023`,
+hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://youtube.com/@zim-bot \n®joshbot 2023`,
 hydratedButtons: content,
 },
 },
@@ -331,7 +331,7 @@ templateMessage: {
 hydratedTemplate: {
 imageMessage: message.imageMessage,
 hydratedContentText: text,
-hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://youtube.com/@zim-bot \n®ᴢɪᴍʙᴏᴛɪɴᴄ 2023`,
+hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://youtube.com/@zim-bot \n®joshbot 2023`,
 hydratedButtons: content,
 },
 },
@@ -350,7 +350,7 @@ templateMessage: {
 hydratedTemplate: {
 imageMessage: message.imageMessage,
 hydratedContentText: text,
-hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://youtube.com/@zim-bot \n®ᴢɪᴍʙᴏᴛɪɴᴄ 2023`,
+hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://youtube.com/@zim-bot \n®joshbot 2023`,
 hydratedButtons: content,
 },
 },
@@ -369,7 +369,7 @@ templateMessage: {
 hydratedTemplate: {
 imageMessage: message.imageMessage,
 hydratedContentText: text,
-hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://youtube.com/@zim-bot \n®ᴢɪᴍʙᴏᴛɪɴᴄ 2023`,
+hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://youtube.com/@zim-bot \n®joshbot 2023`,
 hydratedButtons: content,
 },
 },
@@ -388,7 +388,7 @@ templateMessage: {
 hydratedTemplate: {
 imageMessage: message.imageMessage,
 hydratedContentText: text,
-hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://youtube.com/@zim-bot \n®ᴢɪᴍʙᴏᴛɪɴᴄ 2023`,
+hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://youtube.com/@zim-bot \n®joshbot 2023`,
 hydratedButtons: content,
 },
 },
@@ -408,11 +408,11 @@ participant : '0@s.whatsapp.net'
     forwardingScore: 9999,
     isForwarded: false, 
 showAdAttribution: true,
-title: "ᴢɪᴍ ʙᴏᴛ ᴠ5",
+title: "JOSH ʙᴏᴛ ᴠ5",
 body: "GIVE IT A STAR",
 mediaType: "VIDEO",
 mediaUrl: `https://githb.com/zim-bot/zimbot-v4`,
-description: 'DRIPS OFC',
+description: 'JOSH OFC',
 previewType: "PHOTO",
 thumbnail: fs.readFileSync('./drips.jpg'),
 sourceUrl: "",
@@ -429,7 +429,7 @@ participant : '0@s.whatsapp.net'
   message: {
   documentMessage: {
 showAdAttribution: true,
-  title: "ᴢɪᴍ ʙᴏᴛ ᴠ5", 
+  title: "JOSH ʙᴏᴛ ᴠ5", 
   jpegThumbnail: fs.readFileSync('./drips.jpg')
 }
 }
@@ -445,7 +445,7 @@ showAdAttribution: true,
     message: { 
        "extendedTextMessage": {
                 "text":'SUB DRIPS OFC',
-                "title": 'ᴢɪᴍ ʙᴏᴛ ɪɴᴄ',
+                "title": 'JOSH ʙᴏᴛ ɪɴᴄ',
                 'jpegThumbnail': fs.readFileSync('./drips.jpg')
              }
            } 
@@ -471,7 +471,7 @@ let picak = picaks[Math.floor(Math.random() * picaks.length)]
    if (typeof chats !== 'object') global.db.chats[m.chat] = {}
    if (chats) {
   if (!('mute' in chats)) chats.mute = false
-  if (!('chatbot' in chats)) chats.chatbot = false
+  if (!('chatbot' in chats)) chats.chatbot = true
   if (!('antilink' in chats)) chats.antilink = true
   if (!('antilinkyt' in chats)) chats.antilinkyt = false
   if (!('autoblock' in chats)) chats.autoblock = false
@@ -494,7 +494,7 @@ let picak = picaks[Math.floor(Math.random() * picaks.length)]
  
 } else global.db.chats[m.chat] = {
    mute: false,
-   chatbot: false,
+   chatbot: true,
    wame: false,
    antilink: true,
    antilinkyt: false,
@@ -520,19 +520,19 @@ let picak = picaks[Math.floor(Math.random() * picaks.length)]
     if (setting) {
 if (!isNumber(setting.status)) setting.status = 0
 if (!('autobio' in setting)) setting.autobio = true
-if (!('chatbot' in setting)) setting.chatbot = false
+if (!('chatbot' in setting)) setting.chatbot = true
 if (!('grouponly' in setting)) setting.grouponly = false
 if (!('autoblock' in setting)) setting.autoblock = false
 if (!('privatechat' in setting)) setting.privatechat = true
-if (!('chatgpt' in setting)) setting.chatgpt = false
+if (!('chatgpt' in setting)) setting.chatgpt = true
     } else global.db.settings[botNumber] = {
 status: 0,
 autobio: true,
-chatbot: false,
+chatbot: true,
 grouponly: false,
 autoblock: false,
 privatechat: true,
-chatgpt: false,
+chatgpt: true,
     }
 } catch (err) {
  console.error(err)
@@ -1149,8 +1149,8 @@ await ZimBotInc.groupParticipantsUpdate(m.chat, [sianj], 'remove').then((res) =>
 }
 if (db.chats[m.chat].wame) {
 if (budy.match(`wa.me/`)) {
-reply(`「 𝗭𝗜𝗠 𝗕𝗢𝗧 𝗔𝗡𝗧𝗜𝗟𝗜𝗡𝗞 」\n\n𝗬𝗼𝘂 𝗵𝗮𝘃𝗲 𝘀𝗲𝗻𝗱 𝘄𝗮.𝗺𝗲 𝗹𝗶𝗻𝗸, 𝗻𝗼 𝘁𝗶𝗺𝗲 𝘁𝗼 𝘄𝗮𝘀𝘁𝗲 𝘂𝗮 𝗼𝘂𝘁!`)
-if (!isBotAdmins) return reply(`𝘡𝘪𝘮 𝘉𝘰𝘵 𝘮𝘶𝘴𝘵 𝘣𝘦 𝘢𝘥𝘮𝘪𝘯 𝘧𝘪𝘳𝘴𝘵😚`)
+reply(`「 JOSH 𝗕𝗢𝗧 𝗔𝗡𝗧𝗜𝗟𝗜𝗡𝗞 」\n\n𝗬𝗼𝘂 𝗵𝗮𝘃𝗲 𝘀𝗲𝗻𝗱 𝘄𝗮.𝗺𝗲 𝗹𝗶𝗻𝗸, 𝗻𝗼 𝘁𝗶𝗺𝗲 𝘁𝗼 𝘄𝗮𝘀𝘁𝗲 𝘂𝗮 𝗼𝘂𝘁!`)
+if (!isBotAdmins) return reply(`JOSH 𝘉𝘰𝘵 𝘮𝘶𝘴𝘵 𝘣𝘦 𝘢𝘥𝘮𝘪𝘯 𝘧𝘪𝘳𝘴𝘵😚`)
 let gclink = (`https://wa.me/`)
 let isLinkThisGc = new RegExp(gclink, 'i')
 let isgclink = isLinkThisGc.test(m.text)
@@ -1443,7 +1443,7 @@ cron.schedule('00 12 * * *', () => {
  console.log('Reseted Limit')
 }, {
  scheduled: true,
- timezone: "Africa/Harare"
+ timezone: "Africa/Nairobi"
 })
 //script by drips   
 //respond to cmd
@@ -1852,7 +1852,7 @@ downloader.downloadAPK("com.microbees.floatingapp")
  case 'forex': case 'broker': case 'binary': case 'trading': {
   bentoforex = await getBuffer(picak+'LIVE FOREX')
   teks = `
-  *ZIM-BOT-V4 FOREX TRADING*\n\n*DESCRIPTION:* _Trade with Deriv broker ( formerly called Binary ) link above. Create a Real Synthetic account  You will get to trade famous indices like Volatility 75 Index, Crash, Boom and others. -Minimum deposit as low as 5 dollars.  -You can trade even in weekends,  these indices are available to trade 24 hours a day, 365 days a year. -No noise, Trade with Deriv broker ( formerly called Binary ) link above. The best Forex broker since year 2000. Create a Real Financial or Financial STP account  for currency pairs._\n\n*GET STARTED TODAY:*\n\n*LINK:* https://track.deriv.com/_hx9O43AkP_tBMfcXPt5VjGNd7ZgqdRLk/1\n\n*LINK2:* https://record.binary.com/_Mxrjb7udl0q6tyDIijdDK2Nd7ZgqdRLk/1/\n\n*CONTACT:* https://wa.me/+263775482759 or https://wa.me/263784675236_*for help*_`
+  *JOSH-BOT-V4 FOREX TRADING*\n\n*DESCRIPTION:* _Trade with Deriv broker ( formerly called Binary ) link above. Create a Real Synthetic account  You will get to trade famous indices like Volatility 75 Index, Crash, Boom and others. -Minimum deposit as low as 5 dollars.  -You can trade even in weekends,  these indices are available to trade 24 hours a day, 365 days a year. -No noise, Trade with Deriv broker ( formerly called Binary ) link above. The best Forex broker since year 2000. Create a Real Financial or Financial STP account  for currency pairs._\n\n*GET STARTED TODAY:*\n\n*LINK:* https://track.deriv.com/_hx9O43AkP_tBMfcXPt5VjGNd7ZgqdRLk/1\n\n*LINK2:* https://record.binary.com/_Mxrjb7udl0q6tyDIijdDK2Nd7ZgqdRLk/1/\n\n*CONTACT:* https://wa.me/+263775482759 or https://wa.me/263784675236_*for help*_`
   let buttons = [
   {buttonId: `alive`, buttonText: {displayText: 'BACK'}, type: 1}
   ]
@@ -2976,7 +2976,7 @@ for (let yoi of anu) {
  }
   }]
  fatihgans = fs.readFileSync('./Zimbot/drips.jpg')
- let txt = `「 ZIM BOT BROADCAST 」\n\n${text}`
+ let txt = `「 JOSH BOT BROADCAST 」\n\n${text}`
  ZimBotInc.send5ButImg(yoi, txt, `Broadcast By ${global.pengguna}`, fatihgans, btn)
 }
 reply('*Broadcast Success*')
@@ -3686,7 +3686,7 @@ let caption = `
 *◉Sɪᴢᴇ :* ${anu.filesize}
 *◉Uʀʟ :* ${anu.url}
 *◉Dᴇꜱᴄʀɪᴘᴛɪᴏɴ :* ${anu.description}
- ©ᴢɪᴍʙᴏᴛɪɴᴄ
+ ©JOSHʙᴏᴛɪɴᴄ
 
 `
 message = await prepareWAMessageMedia({ image : { url: anu.thumbnail } }, { upload:   ZimBotInc.waUploadToServer })
@@ -3752,7 +3752,7 @@ captiono += `	◦  *Title* : ${jsoni.title}\n`
 captiono += `	◦  *Size* : ${jsoni.data.size}\n`
 captiono += `	◦  *Duration* : ${jsoni.duration}\n`
 captiono += `	◦  *Bitrate* : ${jsoni.data.quality}\n\n`
-captiono += 'ZIMBOT'
+captiono += 'JOSHBOT'
 zimbotu =  `${jsoni.data.url}`
 
 ZimBotInc.sendMessage(m.chat,{document: {url:jsoni.data.url}, fileName: `${jsoni.title}`, mimetype: 'audio/mp3', quoted: m, contextInfo: { externalAdReply:{
@@ -3877,7 +3877,7 @@ const result4 = `
 *${botname}*`
 reply(`${result4}`)
 ZimBotInc.sendMessage(m.chat, { document : { url : baby1[0].link}, fileName : baby1[0].nama, mimetype: baby1[0].mime ,  quoted : mudratunha, contextInfo: { externalAdReply:{
-  title:"ᴢɪᴍ ʙᴏᴛ ᴠ5",
+  title:"JOSH ʙᴏᴛ ᴠ5",
   body:"SUBSCRIBE DRIPS OFC",
   showAdAttribution: true,
   mediaType:2,
@@ -4033,7 +4033,7 @@ case 'fbdl': case 'fb': case 'facebook': case 'fbvideo': {
 
          txt += `*◉URL :* ${text}\n\n`
 
-         txt += `*ᴢɪᴍ ʙᴏᴛ ɪɴᴄ*`                
+         txt += `*JOSH ʙᴏᴛ ɪɴᴄ*`                
 
      buf = await getBuffer(data.thumbnail)    
 
@@ -4612,7 +4612,7 @@ txt += `*⬤TYPE :* ${data.medias[1].extension}\n`
 txt += `*⬤SIZE :* ${data.medias[1].formattedSize}\n`
 txt += `*⬤DURATION :* ${data.medias.length}\n`
 txt += `*⬤URL :* ${data.url}\n\n`
-txt += `*ᴢɪᴍ ʙᴏᴛ ɪɴᴄ*`
+txt += `*JOSH ʙᴏᴛ ɪɴᴄ*`
 buf = await getBuffer(data.thumbnail)    
 ZimBotInc.sendMessage(m.chat, { image: { url: data.thumbnail }, jpegThumbnail:buf, caption: `${txt}` }, { quoted: m })
 for (let i of data.medias) {
@@ -4674,7 +4674,7 @@ txt += `*⬤ID :* ᴢɪᴍ ʙᴏᴛ ɪɴᴄ\n`
 
 txt += `*⬤URL :* ${text}\n\n`
 
-txt += `*ᴢɪᴍ ʙᴏᴛ ɪɴᴄ*`                
+txt += `*JOSH ʙᴏᴛ ɪɴᴄ*`                
 
 buf = await getBuffer(data.thumbnail)    
 
@@ -4719,7 +4719,7 @@ txt += `*⬤QUALITY :* ${data.medias[1].quality}\n`
 txt += `*:⬤TYPE* ${data.medias[1].extension}\n`
 txt += `*⬤SIZE :* ${data.medias[1].formattedSize}\n`
 txt += `*⬤URL :* ${data.url}\n\n`
-txt += `*ᴢɪᴍ ʙᴏᴛ ɪɴᴄ*`
+txt += `*JOSH ʙᴏᴛ ɪɴᴄ*`
 buf = await getBuffer(data.thumbnail)    
 ZimBotInc.sendMessage(m.chat, { image: { url: data.thumbnail }, jpegThumbnail:buf, caption: `${txt}` }, { quoted: m })              
 ZimBotInc.sendMessage(m.chat, { video: { url: data.medias[1].url }, jpegThumbnail:buf, caption: `*⬤ Quality :* ${data.medias[1].quality}`}, { quoted: m })                
@@ -4882,7 +4882,7 @@ displayText: 'GITHUB',
 url: 'https://youtube.com/@zim-bot'
 }
 }]
-let txt = `「 *ZIMBOT BROADCAST* 」\n\n${text}`
+let txt = `「 *JOSHBOT BROADCAST* 」\n\n${text}`
 ZimBotInc.send5ButImg(i, txt, botname, global.bc, btn)
 }
 reply(` *Send Broadcast To* ${anu.length} *Group*`)
@@ -5098,7 +5098,7 @@ let media = await ZimBotInc.downloadAndSaveMediaMessage(quoted)
 let anu = await TelegraPh(media)
 let buf = await getBuffer(`https://violetics.pw/api/photofilter/${command}?apikey=beta&image=${anu}`)
 ZimBotInc.sendMessage(m.chat, { image: buf, jpegThumbnail:buf, caption: `PhotoFilter ${command}` ,  quoted: m, contextInfo: { externalAdReply:{
-  title:"ᴢɪᴍ ʙᴏᴛ ᴠ5",
+  title:"JOSH ʙᴏᴛ ᴠ5",
   body:"SUBSCRIBE DRIPS OFC",
   showAdAttribution: true,
   mediaType:2,
@@ -5231,7 +5231,7 @@ if (/1917/.test(command)) link = 'https://textpro.me/1917-style-text-effect-onli
 if (/leaves/.test(command)) link = 'https://textpro.me/natural-leaves-text-effect-931.html'
 let anu = await maker.textpro(link, q)
 ZimBotInc.sendMessage(m.chat, { image: { url: anu }, caption: `Made by ${global.botname}` ,  quoted: m, contextInfo: { externalAdReply:{
-  title:"ᴢɪᴍ ʙᴏᴛ ᴠ5",
+  title:"JOSH ʙᴏᴛ ᴠ5",
   body:"SUBSCRIBE DRIPS OFC",
   showAdAttribution: true,
   mediaType:2,
@@ -5274,7 +5274,7 @@ case 'underwaterocean': {
 if (!text) throw `Example : ${prefix + command} text`
 anu = await getBuffer(`https://violetics.pw/api/photooxy/${command}?apikey=beta&text=${text}`)
 ZimBotInc.sendMessage(m.chat, { image: anu, caption: `*PHOTO OXY ${command}*` , quoted: m, contextInfo: { externalAdReply:{
-  title:"ᴢɪᴍ ʙᴏᴛ ᴠ5",
+  title:"JOSH ʙᴏᴛ ᴠ5",
   body:"SUBSCRIBE DRIPS OFC",
   showAdAttribution: true,
   mediaType:2,
@@ -5303,7 +5303,7 @@ case 'summerysand': {
 if (!text) throw `Example : ${prefix + command} nama anime`
 anu = await getBuffer(`https://violetics.pw/api/ephoto360/${command}?apikey=beta&text=${text}`)
 ZimBotInc.sendMessage(m.chat, { image: anu, caption: `*EPHOTO ${command}*` ,  quoted: m, contextInfo: { externalAdReply:{
-  title:"ᴢɪᴍ ʙᴏᴛ ᴠ5",
+  title:"JOSH ʙᴏᴛ ᴠ5",
   body:"SUBSCRIBE DRIPS OFC",
   showAdAttribution: true,
   mediaType:2,
@@ -5637,7 +5637,7 @@ case 'igsearch':
       m.chat, 
       {
        text: `${ucapannya2} ${pushname} *Search Results From ${text} Click the button below to choose*`,
-       footer: `© ᴢɪᴍ ʙᴏᴛ ɪɴᴄ`,
+       footer: `© JOSH ʙᴏᴛ ɪɴᴄ`,
        title: "*▊▊▊APK DOWNLOAD▊▊▊*",
        buttonText: "CLICK HERE",
        sections
@@ -6022,7 +6022,7 @@ break
  case 'public': {
    if (!isCreator) throw global.owner
    ZimBotInc.public = true
-   reply('𝗭𝗶𝗺 𝗯𝗼𝘁 𝗻𝗼𝘄 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗮𝘀 𝗽𝘂𝗯𝗹𝗶𝗰')
+   reply('JOSH 𝗯𝗼𝘁 𝗻𝗼𝘄 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗮𝘀 𝗽𝘂𝗯𝗹𝗶𝗰')
  }// https://hardianto.xyz/api/rip?image=https://i.imgur.com/rANDwCP.jpeg&apikey=hardianto
  break
  case 'attp': {
@@ -6043,7 +6043,7 @@ break
  case 'self': {
    if (!isCreator) throw global.owner
    ZimBotInc.public = false
-   reply('𝗭𝗶𝗺 𝗯𝗼𝘁 𝗻𝗼𝘄 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗮𝘀 𝗽𝗿𝗶𝘃𝗮𝘁𝗲')
+   reply('JOSH 𝗯𝗼𝘁 𝗻𝗼𝘄 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗮𝘀 𝗽𝗿𝗶𝘃𝗮𝘁𝗲')
  }
  break
  case 'ping': case 'botstatus': case 'statusbot': {
@@ -6123,8 +6123,8 @@ latensie = speed() - timestampe
   anu = `
 *ᴜᴘᴛɪᴍᴇ :* ${runtime(process.uptime())}
 
-┌───〔 *_ᴢɪᴍ ʙᴏᴛ ᴠ5_* 〕
-┊ᴡᴇʟᴄᴏᴍᴇ
+┌───〔 *_JOSH ʙᴏᴛ ᴠ5_* 〕
+┊KARIBU
 └───────────●
 
 ┌───〔 _*◉ᴀʙᴏᴜᴛ◉*_ 〕
@@ -6154,7 +6154,7 @@ let buttoni = [
         buttons: buttoni,
         headerType: 4,
         contextInfo: { externalAdReply:{
-        title:"ᴢɪᴍ ʙᴏᴛ ɪɴᴄ",
+        title:"JOSH ʙᴏᴛ ɪɴᴄ",
         body:"SUB DRIPS OFC",
         showAdAttribution: true,
         mediaType:2,
@@ -6198,7 +6198,7 @@ case 'listmenu':
   m.chat, 
   {
   text: `
-┌───〔 *_ᴢɪᴍ ʙᴏᴛ ᴠ5_* 〕
+┌───〔 *_JOSH ʙᴏᴛ ᴠ5_* 〕
 ┊ᴡᴇʟᴄᴏᴍᴇ
 └───────────●
 ┌───〔 *_◉ᴜsᴇʀ ɪɴғᴏ◉_* 〕
@@ -6218,7 +6218,7 @@ case 'listmenu':
 ┊ *ᴛᴏᴛᴀʟ ᴜsᴇʀs:* ${Object.keys(global.db.users).length}
 └───────────●
 `,
-  footer: `ᴢɪᴍ ʙᴏᴛ ɪɴᴄ`,
+  footer: `JOSH ʙᴏᴛ ɪɴᴄ`,
   title: `*LIST MENU*`,
   jpegThumbnail: fs.readFileSync('./drips.jpg'),
   buttonText: "CLICK HERE",
@@ -6239,7 +6239,7 @@ latensie = speed() - timestampe
 anu = `
 *ᴜᴘᴛɪᴍᴇ :* ${runtime(process.uptime())}
 
-┌───〔 *_ᴢɪᴍ ʙᴏᴛ ᴠ5_* 〕
+┌───〔 *_JOSH ʙᴏᴛ ᴠ5_* 〕
 ┊ᴡᴇʟᴄᴏᴍᴇ
 └───────────●
 
@@ -6280,7 +6280,7 @@ anu = `
 ┊🪨shortlinkcuttly -url-
 ┊🪨shortlinkisgd -url-
 ┊🪨brainly -query-
-└───〔 *_ᴢɪᴍ ʙᴏᴛ ɪɴᴄ_* 〕
+└───〔 *_JOSH ʙᴏᴛ ɪɴᴄ_* 〕
 
 
 ┌───〔 *_◉ᴏᴡɴᴇʀᴍᴇɴᴜ◉_* 〕
@@ -6307,7 +6307,7 @@ anu = `
 ┊🪨public
 ┊🪨self
 ┊🪨grouponly
-└───〔 *_ᴢɪᴍ ʙᴏᴛ ɪɴᴄ_* 〕
+└───〔 *_JOSH ʙᴏᴛ ɪɴᴄ_* 〕
 
 
 ┌───〔 *_◉ɢʀᴏᴜᴘᴍᴇɴᴜ◉_* 〕
@@ -6353,7 +6353,7 @@ anu = `
 ┊🪨demote -admin-
 ┊🪨promote -admin-
 ┊🪨editinfo -admin-
-└───〔 *_ᴢɪᴍ ʙᴏᴛ ɪɴᴄ_* 〕
+└───〔 *_JOSH ʙᴏᴛ ɪɴᴄ_* 〕
 
 
 ┌───〔 *_◉ᴛᴇxᴛᴘʀᴏᴍᴇɴᴜ◉_* 〕
@@ -6413,7 +6413,7 @@ anu = `
 ┊🪨glue -text-
 ┊🪨1917 -text-
 ┊🪨leaves -text-
-└───〔 *_ᴢɪᴍ ʙᴏᴛ ɪɴᴄ_* 〕
+└───〔 *_JOSH ʙᴏᴛ ɪɴᴄ_* 〕
 
 
 ┌───〔 *_ᴅᴏᴡɴʟᴏᴀᴅᴍᴇɴᴜ_* 〕
@@ -6463,7 +6463,7 @@ anu = `
 ┊🪨igtv -link-
 ┊🪨fbmp3 -link-
 ┊🪨ytdl -link-
-└───〔 *_ᴢɪᴍ ʙᴏᴛ ɪɴᴄ_* 〕
+└───〔 *_JOSH ʙᴏᴛ ɪɴᴄ_* 〕
 
 
 ┌───〔 *_ᴘʜᴏᴛꜰɪʟᴛᴇʀᴍᴇɴᴜ_* 〕
@@ -6505,7 +6505,7 @@ anu = `
 ┊🪨hdr -photo-
 ┊🪨viewfilter -photo-
 ┊🪨warmsunset -photo-
-└───〔 *_ᴢɪᴍ ʙᴏᴛ ɪɴᴄ_* 〕
+└───〔 *_JOSH ʙᴏᴛ ɪɴᴄ_* 〕
 
 
 ┌───〔 *_ɴꜱꜰᴡᴍᴇɴᴜ_* 〕
@@ -6529,7 +6529,7 @@ anu = `
 ┊🪨yuri
 ┊🪨thighs
 ┊🪨tentacles
-└───〔 *_ᴢɪᴍ ʙᴏᴛ ɪɴᴄ_* 〕
+└───〔 *_JOSH ʙᴏᴛ ɪɴᴄ_* 〕
 
 
 ┌───〔 *_ᴀɴɪᴍᴇᴍᴇɴᴜ_* 〕
@@ -6574,7 +6574,7 @@ anu = `
 ┊🪨awoo2
 ┊🪨animewall2
 ┊🪨searchanime -query-
-└───〔 *_ᴢɪᴍ ʙᴏᴛ ɪɴᴄ_* 〕
+└───〔 *_JOSH ʙᴏᴛ ɪɴᴄ_* 〕
 
 
 ┌───〔 *_ꜱᴇᴀʀᴄʜᴍᴇɴᴜ_* 〕
@@ -6604,7 +6604,7 @@ anu = `
 ┊🪨searchgroups -query-
 ┊🪨qoutesanime -query-
 ┊🪨gmsarena -query-
-└───〔 *_ᴢɪᴍ ʙᴏᴛ ɪɴᴄ_* 〕
+└───〔 *_JOSH ʙᴏᴛ ɪɴᴄ_* 〕
 
 ┌───〔*_◉ᴇᴘʜᴏᴛᴏ-ᴍᴇɴᴜ◉_*〕
 ┊🪨3d-wood
@@ -6640,7 +6640,7 @@ anu = `
 ┊🪨smeme -media-
 ┊🪨stickermeme -media-
 ┊🪨swm -sticker-
-└───〔 *_ᴢɪᴍ ʙᴏᴛ ɪɴᴄ_* 〕
+└───〔 *_JOSH ʙᴏᴛ ɪɴᴄ_* 〕
 
 ┌───〔 *_◉ᴅᴀᴛᴀʙᴀꜱᴇᴍᴇɴᴜ◉_* 〕
 ┊🪨addmsg -msg-
@@ -6650,7 +6650,7 @@ anu = `
 ┊🪨setcmd -msg-
 ┊🪨delcmd -msg-
 ┊🪨listcmd -msg-
-└───〔 *_ᴢɪᴍ ʙᴏᴛ ɪɴᴄ_* 〕
+└───〔 *_JOSH ʙᴏᴛ ɪɴᴄ_* 〕
 
 ┌───〔 *_◉Photooxyᴍᴇɴᴜ◉_* 〕
 ┊🪨silk -text-
@@ -6678,7 +6678,7 @@ anu = `
 ┊🪨yellowroses -text-
 ┊🪨wolfmetal -text-
 ┊🪨underwaterocean -text-
-└───〔 *_ᴢɪᴍ ʙᴏᴛ ɪɴᴄ_* 〕
+└───〔 *_JOSH ʙᴏᴛ ɪɴᴄ_* 〕
 
 
 ┌───〔 *_◉ᴍᴇɴᴜ ʀᴘɢ◉_* 〕
@@ -6723,7 +6723,7 @@ ZimBotInc.sendMessage(m.chat, { react: { text: `${global.reactmoji}`, key: m.key
 buffer = await getBuffer(picak+'OWNER MENU')
 ram3 = `${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}MB / ${Math.round(require('os').totalmem / 1024 / 1024)}MB`
 anu = `
-┌───〔 *_ᴢɪᴍ ʙᴏᴛ ᴠ5_* 〕
+┌───〔 *_JOSH ʙᴏᴛ ᴠ5_* 〕
 ┊ᴡᴇʟᴄᴏᴍᴇ
 └───────────●
 
@@ -6759,7 +6759,7 @@ anu = `
 ┊🪨public
 ┊🪨self
 ┊🪨grouponly
-└───〔 *_ᴢɪᴍ ʙᴏᴛ ɪɴᴄ_* 〕
+└───〔 *_JOSH ʙᴏᴛ ɪɴᴄ_* 〕
 `
 let message = await prepareWAMessageMedia({ image: buffer, jpegThumbnail:buffer }, { upload: ZimBotInc.waUploadToServer })
 
@@ -6777,7 +6777,7 @@ ZimBotInc.sendMessage(m.chat, { react: { text: `${global.reactmoji}`, key: m.key
 buffer = await getBuffer(picak+'DATABASE MENU')
 ram4 = `${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}MB / ${Math.round(require('os').totalmem / 1024 / 1024)}MB`
 anu = `
-┌───〔 *_ᴢɪᴍ ʙᴏᴛ ᴠ5_* 〕
+┌───〔 *_JOSH ʙᴏᴛ ᴠ5_* 〕
 ┊ᴡᴇʟᴄᴏᴍᴇ
 └───────────●
 
@@ -6799,7 +6799,7 @@ anu = `
  ▪︎delcmd -msg-
  ▪︎listcmd -msg-
  
-    *_©ᴢɪᴍ ʙᴏᴛ ɪɴᴄ_*
+    *_©JOSH ʙᴏᴛ ɪɴᴄ_*
 `
 let message = await prepareWAMessageMedia({ image: buffer, jpegThumbnail:buffer }, { upload: ZimBotInc.waUploadToServer })
  var buttonReplyy = [
@@ -6815,7 +6815,7 @@ case 'photooxymenu': {
   buffer = await getBuffer(picak+'PHOTOOXY MENU')
   ram5 = `${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}MB / ${Math.round(require('os').totalmem / 1024 / 1024)}MB`
   anu = `
-┌───〔 *_ᴢɪᴍ ʙᴏᴛ ᴠ5_* 〕
+┌───〔 *_JOSH ʙᴏᴛ ᴠ5_* 〕
 ┊ᴡᴇʟᴄᴏᴍᴇ
 └───────────●
 
@@ -6853,7 +6853,7 @@ case 'photooxymenu': {
 ┊🪨yellowroses -text-
 ┊🪨wolfmetal -text-
 ┊🪨underwaterocean -text-
-└───〔 *_ᴢɪᴍ ʙᴏᴛ ɪɴᴄ_* 〕
+└───〔 *_JOSH ʙᴏᴛ ɪɴᴄ_* 〕
   `
   let message = await prepareWAMessageMedia({ image: buffer, jpegThumbnail:buffer }, { upload: ZimBotInc.waUploadToServer })
   var buttonReplyy = [
@@ -6869,7 +6869,7 @@ ZimBotInc.sendMessage(m.chat, { react: { text: `${global.reactmoji}`, key: m.key
 buffer = await getBuffer(picak+'GROUP MENU')
 ram0 = `${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}MB / ${Math.round(require('os').totalmem / 1024 / 1024)}MB`
 anu = `
-┌───〔 *_ᴢɪᴍ ʙᴏᴛ ᴠ5_* 〕
+┌───〔 *_JOSH ʙᴏᴛ ᴠ5_* 〕
 ┊ᴡᴇʟᴄᴏᴍᴇ
 └───────────●
 
@@ -6924,7 +6924,7 @@ anu = `
 ┊🪨demote -admin-
 ┊🪨promote -admin-
 ┊🪨editinfo -admin-
-└───〔 *_ᴢɪᴍ ʙᴏᴛ ɪɴᴄ_* 〕
+└───〔 *_JOSH ʙᴏᴛ ɪɴᴄ_* 〕
 `
 let message = await prepareWAMessageMedia({ image: buffer, jpegThumbnail:buffer }, { upload: ZimBotInc.waUploadToServer })
 var buttonReplyy = [
@@ -6939,7 +6939,7 @@ case 'textpromenu': {
 ZimBotInc.sendMessage(m.chat, { react: { text: `${global.reactmoji}`, key: m.key }})
 ram11 = `${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}MB / ${Math.round(require('os').totalmem / 1024 / 1024)}MB`
 anu = `
-┌───〔 *_ᴢɪᴍ ʙᴏᴛ ᴠ5_* 〕
+┌───〔 *_JOSH ʙᴏᴛ ᴠ5_* 〕
 ┊ᴡᴇʟᴄᴏᴍᴇ
 └───────────●
 
@@ -7008,7 +7008,7 @@ anu = `
 ┊🪨glue -text-
 ┊🪨1917 -text-
 ┊🪨leaves -text-
-└───〔 *_ᴢɪᴍ ʙᴏᴛ ɪɴᴄ_* 〕
+└───〔 *_JOSH ʙᴏᴛ ɪɴᴄ_* 〕
 `
 const textpromenus = async (remoteJid, text, footer, content) => {
 bufu = await getBuffer(picak+'TEXTPROMENU')
@@ -7020,7 +7020,7 @@ templateMessage: {
 hydratedTemplate: {
 imageMessage: message.imageMessage,
 hydratedContentText: text,
-hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://youtube.com/@zim-bot \n®ᴢɪᴍʙᴏᴛɪɴᴄ 2023`,
+hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://youtube.com/@zim-bot \n®joshbot 2023`,
 hydratedButtons: content,
 },
 },
@@ -7042,7 +7042,7 @@ case 'downloadmenu': {
 ZimBotInc.sendMessage(m.chat, { react: { text: `${global.reactmoji}`, key: m.key }})
 ram22 = `${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}MB / ${Math.round(require('os').totalmem / 1024 / 1024)}MB`
 anu =`
-┌───〔 *_ᴢɪᴍ ʙᴏᴛ ᴠ5_* 〕
+┌───〔 *_JOSH ʙᴏᴛ ᴠ5_* 〕
 ┊ᴡᴇʟᴄᴏᴍᴇ
 └───────────●
 
@@ -7102,7 +7102,7 @@ anu =`
 ┊🪨igtv -link-
 ┊🪨fbmp3 -link-
 ┊🪨ytdl -link-
-└───〔 *_ᴢɪᴍ ʙᴏᴛ ɪɴᴄ_* 〕
+└───〔 *_JOSH ʙᴏᴛ ɪɴᴄ_* 〕
 `
 const donlod = async (remoteJid, text, footer, content) => {
 bufu = await getBuffer(picak+'DOWNLOADMENU')
@@ -7114,7 +7114,7 @@ templateMessage: {
 hydratedTemplate: {
 imageMessage: message.imageMessage,
 hydratedContentText: text,
-hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://youtube.com/@zim-bot \n®ᴢɪᴍʙᴏᴛɪɴᴄ 2023`,
+hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://youtube.com/@zim-bot \n®joshbot 2023`,
 hydratedButtons: content,
 },
 },
@@ -7136,7 +7136,7 @@ case 'photofiltermenu':{
 ZimBotInc.sendMessage(m.chat, { react: { text: `${global.reactmoji}`, key: m.key }})
 ram30 = `${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}MB / ${Math.round(require('os').totalmem / 1024 / 1024)}MB`
 anu =`
-┌───〔 *_ᴢɪᴍ ʙᴏᴛ ᴠ5_* 〕
+┌───〔 *_JOSH ʙᴏᴛ ᴠ5_* 〕
 ┊ᴡᴇʟᴄᴏᴍᴇ
 └───────────●
 
@@ -7188,7 +7188,7 @@ anu =`
 ┊🪨hdr -photo-
 ┊🪨viewfilter -photo-
 ┊🪨warmsunset -photo-
-└───〔 *_ᴢɪᴍ ʙᴏᴛ ɪɴᴄ_* 〕
+└───〔 *_JOSH ʙᴏᴛ ɪɴᴄ_* 〕
 `
 const photofilter2 = async (remoteJid, text, footer, content) => {
 bufu = await getBuffer(picak+'PHOTOFILTERMENU')
@@ -7200,7 +7200,7 @@ templateMessage: {
 hydratedTemplate: {
 imageMessage: message.imageMessage,
 hydratedContentText: text,
-hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://youtube.com/@zim-bot \n®ᴢɪᴍʙᴏᴛɪɴᴄ 2023`,
+hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://youtube.com/@zim-bot \n®joshbot 2023`,
 hydratedButtons: content,
 },
 },
@@ -7223,7 +7223,7 @@ case 'nsfwmenu':{
   buffer = await getBuffer(picak+'NSFW MENU')
   ram35 = `${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}MB / ${Math.round(require('os').totalmem / 1024 / 1024)}MB`
   anu =`
-┌───〔 *_ᴢɪᴍ ʙᴏᴛ ᴠ5_* 〕
+┌───〔 *_JOSH ʙᴏᴛ ᴠ5_* 〕
 ┊ᴡᴇʟᴄᴏᴍᴇ
 └───────────●
 
@@ -7257,7 +7257,7 @@ case 'nsfwmenu':{
 ┊🪨yuri
 ┊🪨thighs
 ┊🪨tentacles
-└───〔 *_ᴢɪᴍ ʙᴏᴛ ɪɴᴄ_* 〕
+└───〔 *_JOSH ʙᴏᴛ ɪɴᴄ_* 〕
   `
 const nsfmenu = async (remoteJid, text, footer, content) => {
 bufu = await getBuffer(picak+'NSFMENU')
@@ -7269,7 +7269,7 @@ templateMessage: {
 hydratedTemplate: {
 imageMessage: message.imageMessage,
 hydratedContentText: text,
-hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://youtube.com/@zim-bot \n®ᴢɪᴍʙᴏᴛɪɴᴄ 2023`,
+hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://youtube.com/@zim-bot \n®joshbot 2023`,
 hydratedButtons: content,
 },
 },
@@ -7292,7 +7292,7 @@ case 'animemenu':{
   ram40 = `${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}MB / ${Math.round(require('os').totalmem / 1024 / 1024)}MB`
   buffer = await getBuffer(picak+'ANIME MENU')
   anu =`
-┌───〔 *_ᴢɪᴍ ʙᴏᴛ ᴠ5_* 〕
+┌───〔 *_JOSH ʙᴏᴛ ᴠ5_* 〕
 ┊ᴡᴇʟᴄᴏᴍᴇ
 └───────────●
 
@@ -7347,7 +7347,7 @@ case 'animemenu':{
 ┊🪨awoo2
 ┊🪨animewall2
 ┊🪨searchanime -query-
-└───〔 *_ᴢɪᴍ ʙᴏᴛ ɪɴᴄ_* 〕
+└───〔 *_JOSH ʙᴏᴛ ɪɴᴄ_* 〕
   `
 const animemenu1 = async (remoteJid, text, footer, content) => {
 bufu = await getBuffer(picak+'ANIMEMENU')
@@ -7359,7 +7359,7 @@ templateMessage: {
 hydratedTemplate: {
 imageMessage: message.imageMessage,
 hydratedContentText: text,
-hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://youtube.com/@zim-bot \n®ᴢɪᴍʙᴏᴛɪɴᴄ 2023`,
+hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://youtube.com/@zim-bot \n®joshbot 2023`,
 hydratedButtons: content,
 },
 },
@@ -7382,7 +7382,7 @@ case 'convertmenu': {
   ram70 = `${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}MB / ${Math.round(require('os').totalmem / 1024 / 1024)}MB`
   buffer = await getBuffer(picak+'CONVERT MENU')
   anu =`
-┌───〔 *_ᴢɪᴍ ʙᴏᴛ ᴠ5_* 〕
+┌───〔 *_JOSH ʙᴏᴛ ᴠ5_* 〕
 ┊ᴡᴇʟᴄᴏᴍᴇ
 └───────────●
 
@@ -7415,7 +7415,7 @@ case 'convertmenu': {
 ┊🪨smeme -media-
 ┊🪨stickermeme -media-
 ┊🪨swm -sticker-
-└───〔 *_ᴢɪᴍ ʙᴏᴛ ɪɴᴄ_* 〕
+└───〔 *_JOSH ʙᴏᴛ ɪɴᴄ_* 〕
    `
   const convertmenu1 = async (remoteJid, text, footer, content) => {
 bufu = await getBuffer(picak+'CONVERTMENU')
@@ -7427,7 +7427,7 @@ templateMessage: {
 hydratedTemplate: {
 imageMessage: message.imageMessage,
 hydratedContentText: text,
-hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://youtube.com/@zim-bot \n®ᴢɪᴍʙᴏᴛɪɴᴄ 2023`,
+hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://youtube.com/@zim-bot \n®joshbot 2023`,
 hydratedButtons: content,
 },
 },
@@ -7450,7 +7450,7 @@ case 'toolmenu': {
   buffer = await getBuffer(picak+'TOOL MENU')
   ram90 = `${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}MB / ${Math.round(require('os').totalmem / 1024 / 1024)}MB`
   anu =`
-┌───〔 *_ᴢɪᴍ ʙᴏᴛ ᴠ5_* 〕
+┌───〔 *_JOSH ʙᴏᴛ ᴠ5_* 〕
 ┊ᴡᴇʟᴄᴏᴍᴇ
 └───────────●
 
@@ -7479,7 +7479,7 @@ case 'toolmenu': {
 ┊🪨shortlinkcuttly -url-
 ┊🪨shortlinkisgd -url-
 ┊🪨brainly -query-
-└───〔 *_ᴢɪᴍ ʙᴏᴛ ɪɴᴄ_* 〕
+└───〔 *_JOSH ʙᴏᴛ ɪɴᴄ_* 〕
   `
 const toolmenu1 = async (remoteJid, text, footer, content) => {
 bufu = await getBuffer(picak+'TOOLMENU')
@@ -7491,7 +7491,7 @@ templateMessage: {
 hydratedTemplate: {
 imageMessage: message.imageMessage,
 hydratedContentText: text,
-hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://youtube.com/@zim-bot \n®ᴢɪᴍʙᴏᴛɪɴᴄ 2023`,
+hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://youtube.com/@zim-bot \n®joshbot 2023`,
 hydratedButtons: content,
 },
 },
@@ -7514,7 +7514,7 @@ case 'searchmenu':{
   buffer = await getBuffer(picak+'SEARCH MENU')
   ram200 = `${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}MB / ${Math.round(require('os').totalmem / 1024 / 1024)}MB`
   anu =`
-┌───〔 *_ᴢɪᴍ ʙᴏᴛ ᴠ5_* 〕
+┌───〔 *_JOSH ʙᴏᴛ ᴠ5_* 〕
 ┊ᴡᴇʟᴄᴏᴍᴇ
 └───────────●
 
@@ -7554,7 +7554,7 @@ case 'searchmenu':{
 ┊🪨searchgroups -query-
 ┊🪨qoutesanime -query-
 ┊🪨gmsarena -query-
-└───〔 *_ᴢɪᴍ ʙᴏᴛ ɪɴᴄ_* 〕
+└───〔 *_JOSH ʙᴏᴛ ɪɴᴄ_* 〕
 
   `
   const searchmenu11 = async (remoteJid, text, footer, content) => {
@@ -7567,7 +7567,7 @@ templateMessage: {
 hydratedTemplate: {
 imageMessage: message.imageMessage,
 hydratedContentText: text,
-hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://youtube.com/@zim-bot \n®ᴢɪᴍʙᴏᴛɪɴᴄ 2023`,
+hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://youtube.com/@zim-bot \n®joshbot 2023`,
 hydratedButtons: content,
 },
 },
@@ -7590,7 +7590,7 @@ ZimBotInc.sendMessage(m.chat, { react: { text: `${global.reactmoji}`, key: m.key
 buffer = await getBuffer(picak+'EPHOTO MENU')
 ram250 = `${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}MB / ${Math.round(require('os').totalmem / 1024 / 1024)}MB`
 anu =`
-┌───〔 *_ᴢɪᴍ ʙᴏᴛ ᴠ5_* 〕
+┌───〔 *_JOSH ʙᴏᴛ ᴠ5_* 〕
 ┊ᴡᴇʟᴄᴏᴍᴇ
 └───────────●
 
@@ -7627,7 +7627,7 @@ templateMessage: {
 hydratedTemplate: {
 imageMessage: message.imageMessage,
 hydratedContentText: text,
-hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://youtube.com/@zim-bot \n®ᴢɪᴍʙᴏᴛɪɴᴄ 2023`,
+hydratedFooterText: `⦿ɢɪᴛʜᴜʙ: https://youtube.com/@zim-bot \n®joshbot 2023`,
 hydratedButtons: content,
 },
 },
