@@ -524,7 +524,7 @@ if (!('chatbot' in setting)) setting.chatbot = true
 if (!('grouponly' in setting)) setting.grouponly = false
 if (!('autoblock' in setting)) setting.autoblock = false
 if (!('privatechat' in setting)) setting.privatechat = true
-if (!('chatgpt' in setting)) setting.chatgpt = true
+if (!('chatgpt' in setting)) setting.chatgpt = false
     } else global.db.settings[botNumber] = {
 status: 0,
 autobio: true,
@@ -532,7 +532,7 @@ chatbot: true,
 grouponly: false,
 autoblock: false,
 privatechat: true,
-chatgpt: true,
+chatgpt: false,
     }
 } catch (err) {
  console.error(err)
